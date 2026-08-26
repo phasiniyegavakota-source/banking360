@@ -1,0 +1,45 @@
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+    position: relative;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    background-color: #0056b3;
+    margin-top: 10px;
+}
+
+nav li:hover > ul {
+    display: block;
+}
+
+nav ul ul li {
+    display: block;
+    margin: 0;
+}
