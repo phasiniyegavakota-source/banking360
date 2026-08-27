@@ -57,7 +57,7 @@ Node.js (v18+)
 MySQL database
 1. Clone the repository
 ```bash
-git clone https://github.com/[your-username]/banking360.git
+git clone https://github.com/phasiniyegavakota-source/banking360.git
 cd banking360
 ```
 2. Set up the backend
