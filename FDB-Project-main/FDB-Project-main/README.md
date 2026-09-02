@@ -71,4 +71,4 @@ Open http://localhost:5173 in your browser.
 - ✅ Delivered full banking operations: loans, cards, ATM, salary, transactions
 
 ---
-> 🔗 Developer: [Kalyankumar Sandireddy](https://kalyankumar-sandireddy.online) | [LinkedIn](https://www.linkedin.com/in/kalyankumar-sandireddy-400681176)
+> 🔗 Developer: [Hasini Prasad](https://Hasini-Prasad.online) | [LinkedIn](www.linkedin.com/in/hasini-prasad-b761b0286)
